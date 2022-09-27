@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 .container .header h2 {
   color: firebrick;
 }
+=======
+.container .nav h1 {
+
+    color: pink;
+}
+.container .main p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+>>>>>>> a02493c36ef37cb832646605ca74ba35a0be8155
